@@ -35,7 +35,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge\&logo=nginx\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Basic-232F3E.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
